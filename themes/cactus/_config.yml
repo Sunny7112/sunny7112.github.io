@@ -17,7 +17,7 @@ nav:
   home: /
   about: /about/
   articles: /archives/
-  projects: projects_url
+  projects: /about/projects
 
 
 # Links to your social media accounts.
@@ -25,10 +25,10 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: /
-  twitter: /
-  facebook: /
-  linkedin: /
+  github: https://github.com/Sunny7112
+#  twitter: /
+#  facebook: /
+#  linkedin: /
   mail: mailto:sunnyyang027@163.com
 
 # Customize the overview with displaying a tagcloud on the index page.
