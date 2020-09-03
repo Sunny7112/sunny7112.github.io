@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Sunny Yang
-subtitle: ''
+title: 羊骚
+subtitle: '越努力，越幸运'
 description: ''
-keywords: Java, Sunny
-author: Sunny Yang
+keywords: Java, 羊骚
+author: 羊骚
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
@@ -104,3 +104,14 @@ theme: cactus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
+toc:
+  maxdepth: 3
+  class: toc
+  slugify: transliteration
+  decodeEntities: false
+  anchor:
+    position: after
+    symbol: '#'
+    style: header-anchor
